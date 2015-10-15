@@ -1,3 +1,7 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/agares/pen/zvExyQ.
+# Plate Designer for Scientists 2.0
+
+WIP 
+
+https://miroculus.github.io/plate-designer/
 
  
